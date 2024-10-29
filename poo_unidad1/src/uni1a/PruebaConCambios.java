@@ -10,13 +10,12 @@ public class PruebaConCambios {
         Investigadores investigador1 = new Investigadores("Dr. John Doe", "Biología");
         Investigadores investigador2 = new Investigadores("Dra. Jane Smith", "Astrofísica");
         Investigadores investigador3 = new Investigadores("Dr. Alan Turing", "Matemáticas"); // Nuevo investigador
-        Investigadores investigador4 = new Investigadores("Dra. Ada Lovelace", "Computación"); // Nuevo investigador
+       
 
         // Mostrar detalles de los investigadores
         investigador1.mostrarDetalles();
         investigador2.mostrarDetalles();
         investigador3.mostrarDetalles(); // Detalles del nuevo investigador
-        investigador4.mostrarDetalles(); // Detalles del nuevo investigador
         
         // Crear episodios
         Episodio episodio1 = new Episodio("Episodio Piloto", 45);
@@ -64,7 +63,7 @@ public class PruebaConCambios {
 
         // Crear instancias de VideoYouTube y Cortometraje
         VideoYouTube videoYT = new VideoYouTube("Tutorial Java", 15, "Educativo", "https://youtube.com/video1");
-        Cortometraje corto = new Cortometraje("Corto Ejemplo", 10, "Comedia", "Juan Perez");
+        Cortometraje corto = new Cortometraje("Soledad", 20, "Comedia", "Juan Perez");
 
         // Mostrar detalles de VideoYouTube
         System.out.println("\nDetalles del Video de YouTube:");
@@ -84,6 +83,6 @@ public class PruebaConCambios {
         investigador1.realizarInvestigacion();
         investigador2.realizarInvestigacion();
         investigador3.realizarInvestigacion(); // Investigación del nuevo investigador
-        investigador4.realizarInvestigacion(); // Investigación del nuevo investigador
+      
     }
 }
