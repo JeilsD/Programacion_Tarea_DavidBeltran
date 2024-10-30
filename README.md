@@ -14,7 +14,6 @@ Este proyecto tiene como objetivo crear un programa que permita revisar informac
 - **PruebaConCambios**: Clase que se utiliza para probar cambios en la implementación del sistema.
 - **PruebaConCambiosB**: Nueva clase creada para probar funcionalidades adicionales.
 
-
 ## Instrucciones para clonar y ejecutar el proyecto
 
 1. **Clonar el repositorio**:
@@ -22,10 +21,8 @@ Este proyecto tiene como objetivo crear un programa que permita revisar informac
    - Navega a la carpeta donde deseas clonar el repositorio.
    - Ejecuta el siguiente comando:
      ```bash
-    git clone https://github.com/JeilsD/Programacion_Tarea_DavidBeltran.git
-
+     git clone https://github.com/JeilsD/Programacion_Tarea_DavidBeltran.git
      ```
-    
 
 2. **Abrir el proyecto en Eclipse**:
    - Inicia Eclipse.
@@ -41,10 +38,9 @@ Este proyecto tiene como objetivo crear un programa que permita revisar informac
 4. **Verificar el funcionamiento**:
    - Observa la consola de Eclipse para verificar que el programa se ejecute correctamente y muestra la información de los contenidos audiovisuales como se esperaba.
 
-
 ## Mejora Adicional
 
-Se han implementado tres pruebas diferentes para verificar la funcionalidad del código. Estas pruebas están diseñadas para asegurar que las clases y métodos desarrollados se comporten como se espera. 
+Se han implementado tres pruebas diferentes para verificar la funcionalidad del código. Estas pruebas están diseñadas para asegurar que las clases y métodos desarrollados se comporten como se espera.
 
 ### Detalles de las pruebas:
 1. **PruebaConCambios.java**: 
@@ -57,3 +53,4 @@ Se han implementado tres pruebas diferentes para verificar la funcionalidad del 
    - Verifica el correcto funcionamiento de la clase `ContenidoAudiovisual` y sus subclases, asegurando que los métodos de acceso (getters y setters) funcionan correctamente.
 
 Estas pruebas son fundamentales para mantener la calidad del código y facilitar futuras modificaciones.
+
