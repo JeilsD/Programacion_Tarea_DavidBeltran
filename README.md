@@ -22,7 +22,8 @@ Este proyecto tiene como objetivo crear un programa que permita revisar informac
    - Navega a la carpeta donde deseas clonar el repositorio.
    - Ejecuta el siguiente comando:
      ```bash
-     git clone https://github.com/JeilsD/tu_repositorio.git
+    git clone https://github.com/JeilsD/Programacion_Tarea_DavidBeltran.git
+
      ```
     
 
